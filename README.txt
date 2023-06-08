@@ -1,4 +1,4 @@
-JohnDoe Free Bootstrap landing page for personal and commercial use. Designed with ♥️ and creativity by Mwega.com 
+JohnDoe Free Bootstrap landing page for personal and commercial use. Designed with ♥️ and creativity by Doe.com 
 
 
 
